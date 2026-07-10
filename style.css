@@ -74,7 +74,7 @@ h1 {
     font-size: 50px;
 }
 
-.lasagna-img {
+.recipe-image {
     display: block;
     margin: 10px auto;
     width: 800px;
@@ -108,7 +108,7 @@ h1 {
 }
 
 .section-ingredients {
-    margin: 30px 50px 50px 100px;
+    margin: 30px 50px 50px 95px;
     display: inline-block;
     width: 520px;
     background-color: brown;
